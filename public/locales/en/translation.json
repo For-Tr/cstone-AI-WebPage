@@ -1,0 +1,209 @@
+{
+  "company": {
+    "name": "True Stone Technology"
+  },
+  "welcome": "Welcome to i18n React Application",
+  "description": "This is a simple example showing how internationalization works",
+  "change_language": "Change language",
+  "hello": "Hello",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products & Solutions",
+    "news": "News",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "AI Foundation Models",
+    "subtitle": "Driving AIoT Technology Frontier"
+  },
+  "aiCore": {
+    "title": "AI Foundation Models at the Core",
+    "description1": "Becoming the most powerful brain of AIoT 2.0 era",
+    "description2": "Specialized for energy industries"
+  },
+  "platform": {
+    "button": "SUI MaaS Platform"
+  },
+  "technology": {
+    "title": "THREE TECHNOLOGICAL EVOLUTIONS",
+    "traditional": {
+      "title": "TRADITIONAL DATA MODEL"
+    },
+    "deepLearning": {
+      "title": "DEEP LEARNING"
+    },
+    "timeModel": {
+      "title": "TIME-SERIES FOUNDATION MODEL"
+    }
+  },
+  "innovation": {
+    "title": "POWERED BY AI INNOVATION, SHAPING AN INTELLIGENT ECOSYSTEM",
+    "products": {
+      "fm": {
+        "title": "SUI FM Foundation Model",
+        "description": "Gas Industry-Specific AI Foundation Model, More Accurately Addressing Industry Pain Points"
+      },
+      "maas": {
+        "title": "SUI MaaS Platform",
+        "description": "One UI SUI Large Model Platform, One click SUI domain specific Large Model Application Platform"
+      },
+      "llm": {
+        "title": "SUI LLM",
+        "description": "A Large language model based on the professional knowledge base of the gas industry"
+      },
+      "tsdb": {
+        "title": "SUI TSDB",
+        "description": "A dedicated database structure for IoT data, providing efficient data reading and writing capabilities to improve model training and inference efficiency"
+      },
+      "lic": {
+        "title": "SUI LIC",
+        "description": "Self developed AI lossless data compression algorithm effectively reduces data storage costs"
+      },
+      "report": {
+        "title": "SUI Report",
+        "description": "A specialized result analysis report tool for gas foundation models, with an intuitive visual report dashboard"
+      }
+    }
+  },
+  "customerCentric": {
+    "title": "CUSTOMER-CENTRIC DELIVERING END-TO-END SERVICES",
+    "description": "True Stone Technology is committed to providing comprehensive solutions through years of technical expertise, helping customers achieve intelligent transformation"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "phone": "18819280027",
+    "address": "Block A, Northwest Guojin Center, Weiyang District, Xi'an City, Shaanxi Province,China",
+    "company": "© 2024 True Stone Technology All Rights Reserved | Guangdong ICP xxxxxxxx-1 | Powered by CodeStone"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "COMPANY INTRODUCTION",
+    "companyInfo": {
+      "text1": "Shaanxi Chengshi Information Technology Co., Ltd. (referred to as Chengshi Technology) is founded by Dr. Li Cheng (formerly a senior member of the 2012 laboratory) and Dr. Pan Shi (a postdoctoral fellow at Imperial College London and a core member of the UCL AI Lab). The core team also includes 5 senior AI algorithm engineers from major companies and 3 senior software engineers.",
+      "text2": "Overseas, our company's technical team has participated in the development of AI algorithms and IoT applications at Oxford University, Cambridge University, and Imperial College London; Domestically, participated in the research and development of Huawei AI intelligent products, software and algorithms for Industry 4.0 smart factories. The team was established in September 2024, leveraging its existing technological advantages in industry university research."
+    },
+    "productInfo": {
+      "text1": "In response to the advanced needs of the energy industry's transition from digitalization to intelligence, Ture Stone Technology Gas Product Line has built a complete solution matrix: in the digital foundation stage, SUI TSDB time-series database and SUI LIC intelligent compression engine are provided to solidify data infrastructure; In the stage of deepening digitalization, we will launch the SUI Maas platform, SUI LLM, and SUI report dashboard to achieve data value mining; In the stage of intelligent leap, we have created the SUI Foundation Model series, which includes three core modules: SUI FM-S Gas Leakge Detetion, SUI FM-P gas usage prediction, and SUI FM-M network meter online monitoring, fully empowering gas business scenarios."
+    },
+    "teamMembers": [
+      {
+        "name": "Dr Cheng Li",
+        "position": "CEO",
+        "education": "Ph.D. from University of Kent, UK",
+        "experience1": "5-years Senior Engineer at Huawei 2012 Lab",
+        "experience2": "2-years AI Technology Director at Hexagon AB",
+        "experience3": "More than 10 years of experience in product development in the field of artificial intelligence",
+        "achievement": "Rich experience in AI commercialization, Huawei 2012 laboratory senior algorithm engineer, completed the research and development of computer vision algorithm, and product implementation.",
+        "expertise": "Project manager for perception algorithms SE and AI software for Huawei consumer BG wearables, intelligent driving and other products; Hexagon AI application expert and AI technology director. Responsible for the implementation of multiple AI Foundation model ToC and ToB projects, leading the team to complete innovative applications of AI in various industries."
+      },
+      {
+        "name": "Dr Shi Pan",
+        "position": "CTO",
+        "education": "Ph.D. from University of Kent, UK",
+        "experience1": "Postdoctoral Fellow at Imperial College London, UK",
+        "experience2": "Senior Researcher, University College London, UK",
+        "experience3": "More than 10 years of research experience in world-class universities",
+        "achievement": "Stronge publications both papers and patents",
+        "expertise": "Postdoctoral Fellow at Imperial College London. Engaged in cutting-edge research on neural network compression. UCL research scientist at the University of London leads a team to deeply explore the application of AI models in the field of cancer."
+      }
+    ]
+  },
+  "products": {
+    "maas": {
+      "title": "SUI MaaS Platform",
+      "subtitle": "Model as a Service"
+    },
+    "gas": {
+      "fms": {
+        "title": "Gas FM-S",
+        "subtitle": "GAS FOUNDATION MODEL: SAFETY",
+        "description1": "Compared to existing technologies in the gas industry, SUI Foundation Models improve warning efficiency by 80%, increasing detection accuracy by 38%",
+        "description2": ",Reducing gas fault alarms ratio  by 50%, further protecting the safety of gas usage for thousands of households."
+      },
+      "fmp": {
+        "title": "Gas FM-P",
+        "subtitle": "GAS FOUNDATION MODEL: PROPHET",
+        "description": "Gas consumption prediction, based on domain requirements, can achieve rapid deployment with \"small sample\" and continuous iterative upgrading of models based on active learning. The accuracy of gas prediction has been improved by more than 10%, directly saving the cost of purchasing gas."
+      },
+      "fmm": {
+        "title": "Gas FM-M",
+        "subtitle": "GAS FOUNDATION MODEL: MONITOR",
+        "description": "Gas network meter AI online monitoring utilizes network meter sensor data to achieve health monitoring of existing network meter equipment. Through predictive maintenance technology, it effectively reduces network meter failures and saves operation and maintenance costs. Implement early warning and timely alert for abnormal fee calculation. Successfully achieved a technological breakthrough in predictive maintenance of online IoT meters."
+      },
+      "fmllm": {
+        "title": "Gas FM-LLM",
+        "subtitle": "GAS FOUNDATION MODEL: LARGE LANGUAGE MODEL",
+        "description": "Deepseek based OA server-side large language model, providing  AI assistants for gas systems applications."
+      }
+    }
+  },
+  "news": {
+    "title": "NEWS UPDATES",
+    "items": {
+      "deepseek": {
+        "title": "DeepSeek Future AI Will Drive Upper and Lower Gas Industry Development",
+        "description": "By 2030, AI is expected to help the gas industry reduce operating costs by 10-15%, decrease methane emissions by over 20%, and create new profit models through smart energy services such as carbon credit sales. The integration of technology (AI+IoT+blockchain) will drive the evolution of the gas industry towards an \"autonomous decision-making system\"."
+      },
+      "safety": {
+        "title": "AI Enhances Gas Safety, Shenyang Gas Leads Intelligent Transformation Process",
+        "description": "Shenyang Gas Group Co., Ltd. and the upstream gas supply chain are building a strategic partnership with DeepSeek, jointly developing intelligent energy system infrastructure and planning for the future, Shenyang Gas will accelerate the integration of practical NLP and machine learning technologies into gas applications."
+      },
+      "management": {
+        "title": "Gas Management Enters the Era of Intelligence! How New Technology Achieves Smart Gas?",
+        "description": "In an era of digital technology, wireless communication technology, Internet of Things technology, big data technology, cloud computing, and artificial intelligence, the industry has put forward the concept of 'smart gas,' which integrates smart transportation, smart water supply, smart gas in multiple domains, and provides intelligent gas safeguards, bringing a unified approach to the entire industry chain. On the consumer side, it provides risk-free service. More and more public utilities are also using AI technology to upgrade gas management services to strive for intelligent gas development."
+      }
+    },
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "CONTACT US",
+    "findUs": "You can find us here",
+    "businessInquiry": "Business Inquiry",
+    "technicalSupport": "Technical Support",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Science and Technology Park, Xi'an High-tech Zone, Room A#2107, Shaanxi, China",
+    "business": {
+      "name": "Ouyang Tianyu",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "technical": {
+      "name": "Zhang Yaozhong",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "oversea": {
+      "name": "Cheng Li",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "submitRequirements": "Submit Your Technical Requirements Here",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "company": "Company",
+      "companyPlaceholder": "Your company",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone number",
+      "email": "Email",
+      "emailPlaceholder": "Your email address",
+      "message": "Message",
+      "messagePlaceholder": "Enter your requirements here",
+      "captchaPlaceholder": "Enter verification code",
+      "submit": "Submit",
+      "successMessage": "Your message has been sent successfully!",
+      "captchaError": "Verification code is incorrect. Please try again."
+    }
+  }
+} 

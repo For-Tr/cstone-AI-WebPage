@@ -1,0 +1,91 @@
+.company-info {
+  background-color: #fff;
+  color: #333;
+  padding: 60px 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.company-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  width: 100%;
+}
+
+.company-intro,
+.product-intro {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 60px;
+  align-items: center;
+  width: 100%;
+}
+
+.product-intro {
+  flex-direction: row-reverse;
+}
+
+.city-image,
+.office-image {
+  flex: 1;
+  max-width: 50%;
+}
+
+.city-image img,
+.office-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.intro-text,
+.product-text {
+  flex: 1;
+  max-width: 50%;
+}
+
+.intro-text p,
+.product-text p {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* 响应式设计 */
+@media (max-width: 992px) {
+  .company-intro,
+  .product-intro {
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 20px;
+  }
+
+  .city-image,
+  .office-image,
+  .intro-text,
+  .product-text {
+    max-width: 100%;
+    flex: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .company-info {
+    padding: 40px 0;
+  }
+  
+  .company-intro,
+  .product-intro {
+    padding: 0 15px;
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .intro-text p,
+  .product-text p {
+    font-size: 0.95rem;
+  }
+} 

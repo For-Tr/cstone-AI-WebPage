@@ -1,0 +1,113 @@
+.hero {
+  position: relative;
+  padding: 100px 0;
+  background-color: #1a1a1a;
+  background-image: url('/hero-bg.jpg'); /* 如果有背景图 */
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+  z-index: 2;
+  position: relative;
+}
+
+.hero-title {
+  display: flex;
+  flex-direction: column;
+  font-size: 3.5rem;
+  margin-bottom: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.title-prefix {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.title-suffix {
+  color: #e3a73a;
+}
+
+.ai-core-info {
+  margin-bottom: 50px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.ai-core-title {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.ai-core-desc {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.platform-button {
+  margin-top: 30px;
+}
+
+.btn-platform {
+  display: inline-flex;
+  align-items: center;
+  background-color: #e3a73a;
+  color: #000;
+  padding: 12px 24px;
+  font-size: 1.1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn-platform:hover {
+  background-color: #d69c30;
+}
+
+.arrow {
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .hero {
+    padding: 70px 0;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .ai-core-title {
+    font-size: 1.3rem;
+  }
+
+  .ai-core-desc {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .ai-core-title {
+    font-size: 1.1rem;
+  }
+
+  .ai-core-desc {
+    font-size: 0.9rem;
+  }
+
+  .btn-platform {
+    padding: 10px 18px;
+    font-size: 1rem;
+  }
+} 

@@ -1,0 +1,59 @@
+.about-hero {
+  background-color: #1a1a1a;
+  padding: 100px 0 50px;
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+
+.about-hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/about-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2;
+  z-index: 1;
+}
+
+.about-hero-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.about-hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+.about-title {
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.about-subtitle {
+  font-size: 1rem;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12vh;
+}
+
+@media (max-width: 768px) {
+  .about-hero {
+    padding: 80px 0 40px;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+  }
+} 

@@ -1,0 +1,8 @@
+.home-page {
+  background-color: #1a1a1a;
+}
+
+/* Section分隔线 */
+.home-page section:not(:last-child) {
+  border-bottom: 1px solid #333;
+} 

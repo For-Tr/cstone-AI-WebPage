@@ -1,0 +1,14 @@
+.about-page {
+  background-color: #fff;
+  margin: 0 auto; /* 居中显示 */
+  overflow-x: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  max-width: 1200px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .about-page {
+    width: 100%;
+  }
+} 

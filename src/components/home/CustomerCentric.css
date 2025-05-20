@@ -1,0 +1,28 @@
+.customer-centric {
+  padding: 80px 0;
+  background-color: #222;
+}
+
+.customer-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.customer-description {
+  margin-top: 30px;
+}
+
+.customer-description p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #ddd;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .customer-description p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+} 

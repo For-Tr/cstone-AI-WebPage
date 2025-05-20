@@ -1,0 +1,215 @@
+{
+  "company": {
+      "name": "鉞石科技"
+  },
+  "welcome": "歡迎使用 i18n React 應用",
+  "description": "這是一個展示國際化如何工作的簡單示例",
+  "change_language": "切換語言",
+  "hello": "你好",
+  "menu": {
+      "home": "首頁",
+      "about": "關於",
+      "contact": "聯繫我們"
+  },
+  "header": {
+      "home": "首頁",
+      "about": "公司介紹",
+      "products": "產品與方案",
+      "news": "新聞動態",
+      "contact": "聯繫我們"
+  },
+  "hero": {
+      "title": "以AI大模型",
+      "subtitle": "驅動萬物智聯"
+  },
+  "aiCore": {
+      "title": "以AI基礎大模型為核心",
+      "description1": "成為AIoT2.0時代最強大腦",
+      "description2": "更適用於特定領域"
+  },
+  "platform": {
+      "button": "智燧Maas平台"
+  },
+  "technology": {
+      "title": "技術躍遷 引領三次變革",
+      "subtitle": "TECHNOLOGICAL EVOLUTION PIONEERING A TRIAD OF REVOLUTIONS",
+      "traditional": {
+          "title": "傳統數據模型",
+          "subtitle": "TRADITIONAL DATA MODEL"
+      },
+      "deepLearning": {
+          "title": "深度學習",
+          "subtitle": "DEEP LEARNING"
+      },
+      "timeModel": {
+          "title": "時序大模型",
+          "subtitle": "TIME-SERIES FOUNDATION MODEL"
+      }
+  },
+  "innovation": {
+      "title": "創新驅動 打造智能生態",
+      "subtitle": "POWERED BY INNOVATION SHAPING AN INTELLIGENT ECOSYSTEM",
+      "products": {
+          "fm": {
+              "title": "智燧FM垂域大模型",
+              "description": "燃氣行業專用AI Foundation Model，更精確地解決燃氣行業痛點"
+          },
+          "maas": {
+              "title": "智燧MaaS平台",
+              "description": "One UI智隧大模型平台，一鍵式智隧垂域大模型應用平台"
+          },
+          "llm": {
+              "title": "智燧LLM",
+              "description": "基於燃氣行業專業知識庫的語言大模型"
+          },
+          "tsdb": {
+              "title": "鉞石TSDB",
+              "description": "針對物聯網數據的專用數據庫結構，提供高效的數據讀寫能力，提高模型訓練推理效率"
+          },
+          "lic": {
+              "title": "鉞石LIC",
+              "description": "自研AI無損數據壓縮算法，有效降低數據存儲成本"
+          },
+          "report": {
+              "title": "智燧Report",
+              "description": "面對燃氣大模型的專用結果分析報告工具，直觀的可視化報告看板"
+          }
+      }
+  },
+  "products": {
+      "maas": {
+          "title": "智燧MaaS平台",
+          "subtitle": "Model as a Service"
+      },
+      "gas": {
+          "fms": {
+              "title": "燧FM-S",
+              "subtitle": "GAS FOUNDATION MODEL - SAFETY",
+              "description1": "對比燃氣行業現有技術，智燧大模型預警時效性提高80%；每年可避免多起燃氣事故，異常檢測準確率提高38%；有效規避現有技術遺漏的燃氣異常多起，誤檢率降低50%，進一步為千家萬戶安全用氣保駕護航。"
+          },
+          "fmp": {
+              "title": "燧FM-P",
+              "subtitle": "GAS FOUNDATION MODEL - PROPHET",
+              "description": "燃氣用量預測，基於領域需求，可以實現少樣本快速部署和基於主動學習的模型持續迭代升級。燃氣預測準確率提高10%+，直接節省購氣成本。"
+          },
+          "fmm": {
+              "title": "燧FM-M",
+              "subtitle": "GAS FOUNDATION MODEL - MONITOR",
+              "description": "燃氣網表AI在線監控，利用網表傳感器數據，實現在現網表設備健康監控，通過預測性維護技術，有效減少網表故障，節省運維費用。實現費用結算異常提前預警，及時報警。成功實現在線物聯網表預測性維護\"0到1\"的技術性突破"
+          },
+          "fmllm": {
+              "title": "燧FM-LLM",
+              "subtitle": "GAS FOUNDATION MODEL - LARGE LANGUAGE MODEL",
+              "description": "基於Deepseek的OA服務端大模型，提供了多項燃氣系統內的常用AI助手"
+          }
+      }
+  },
+  "customerCentric": {
+      "title": "客戶為本 提供端到端服務",
+      "subtitle": "CUSTOMER-CENTRIC DELIVERING END-TO-END SERVICES",
+      "description": "鉞石科技致力為客戶提供全方位解決方案，通過自身多年技術積累，助力其實現智能化轉型"
+  },
+  "footer": {
+      "contact": "聯繫方式",
+      "phone": "18819280027",
+      "address": "陝西省西安市未央區西北國金中心A座",
+      "company": "© 2023 鉞石科技 版權所有 | 粵ICP備xxxxxxxx號-1 | Powered by CodeStone"
+  },
+  "about": {
+      "title": "公司介紹",
+      "subtitle": "COMPANY INTRODUCTION",
+      "companyInfo": {
+          "text1": "陝西鉞石信息技術有限公司（簡稱：鉞石科技）創始人為李鉞博士（原華為2012實驗室資深成員），潘石博士（帝國理工大學博士后，倫敦大學學院（UCL)AI Lab核心成員）組成，核心團隊還包括5位大廠資深 AI算法工程師以及3位資深軟件工程師。",
+          "text2": "海外，我公司技術團隊曾參加牛津大學、劍橋大學、帝國理工大學的AI算法及物聯應用項目開發；國內，參與了華為AI智能產品，工業4.0智慧工廠的軟件以及算法研發。團隊利用原有產學研的技術優勢，於2024年9月成立。"
+      },
+      "productInfo": {
+          "text1": "針對能源行業從數字化到智慧化轉型的進階需求，鉞石燃氣產品線構建了完整的解決方案矩陣：在數字化築基階段，提供鉞石TSDB時序數據庫和鉞石LIC智能壓縮引擎，夯實數據基建；在數字化深化階段，推出智燧Maas平台、智燧LLM大模型及智燧report報告看板，實現數據價值挖掘；在智能化躍升階段，打造智燧燃氣大模型系列，包含燧FM-S安全預警、燧FM-P氣量檢測及燧FM-M網表在線監控三大核心模塊，全面賦能燃氣業務場景。"
+      },
+      "teamMembers": [
+          {
+              "name": "李鉞",
+              "position": "CEO",
+              "education": "英國肯特大學博士",
+              "experience1": "5年華為2012高級工程師",
+              "experience2": "2年海克斯康AI技術總監",
+              "experience3": "10年以上人工智能領域產品研發經驗",
+              "achievement": "AI商業化經歷豐富 華為2012實驗室⾼級算法⼯程師，完成機器視覺超星光降算法研發，產品落地",
+              "expertise": "擔任華為消費者BG穿戴，智駕等產品的感知算法SE以及AI軟件項⽬經理；海克斯康集團擔任⼯業AI應⽤專家、AI技 術總監。 負責多個⼤模型ToC、ToB項⽬應⽤落地，帶領團隊完成了AI在各個⾏業的創新應⽤"
+          },
+          {
+              "name": "潘石",
+              "position": "CTO",
+              "education": "英國肯特大學博士",
+              "experience1": "英國帝國理⼯⼤學博士后",
+              "experience2": "英國倫敦⼤學學院⾼級研究員",
+              "experience3": "10年以上的世界頂級院校科研經歷",
+              "achievement": "豐富的技術論⽂與專利經驗",
+              "expertise": "英國帝國理⼯學院博⼠后，從事神經⽹絡壓縮前沿研究；倫敦⼤學學院UCL研究科學家，帶領團隊深耕AI⼤模型在腫瘤領域的應⽤"
+          }
+      ]
+  },
+  "news": {
+      "title": "新聞動態",
+      "subtitle": "NEWS UPDATES",
+      "items": {
+          "deepseek": {
+              "title": "DeepSeek解答：未來AI如何助力燃氣上中下游產業發展",
+              "description": "到2030年，AI有望幫助燃氣行業降低10-15%運營成本、減少20%以上甲烷排放，並通過智慧能源服務創造新盈利模式（如碳信用銷售）。技術融合（AI+物聯網+區塊鏈）將推動燃氣產業向\"自主決策系統\"進化。"
+          },
+          "safety": {
+              "title": "AI賦能燃氣安全，瀋陽燃氣引領智慧化變革新征程",
+              "description": "瀋陽燃氣集團有限公司以時不我待的緊迫感，迅速完成DeepSeek大模型的本地化部署，率先開啟智能客服系統的構建。展望未來，瀋陽燃氣集團將持續深化AI與機器學習技術在燃氣運營管理中的應用。"
+          },
+          "management": {
+              "title": "燃氣管理進入智能時代！新技術如何實現智慧燃氣？",
+              "description": "在互聯網技術、無線通信技術、物聯網技術、衛星通信技術、大數據、雲計算技術飛速發展的今天，業界提出了\"智慧城市\"的概念。智慧城市的範圍很廣，包含智慧交通、智慧水務、智慧燃氣等多個領域。對於智慧燃氣的概念，燃氣行業目前並未有統一的定義，基本上還處於各自闡述的階段。近來，很多燃氣公司都採用現代技術提升管理及服務水平，努力往智慧燃氣方向發展。"
+          }
+      },
+      "pagination": {
+          "prev": "上一頁",
+          "next": "下一頁"
+      }
+  },
+  "contact": {
+      "title": "聯繫我們",
+      "subtitle": "CONTACT US",
+      "findUs": "您可以在這裡找到我們",
+      "businessInquiry": "業務洽談",
+      "technicalSupport": "技術支持",
+      "phone": "電話",
+      "email": "郵箱",
+      "address": "陝西省西安市未央區西北國金大廈A座",
+      "business": {
+          "name": "歐陽天宇",
+          "phone": "電話",
+          "email": "郵箱"
+      },
+      "technical": {
+          "name": "張耀中",
+          "phone": "電話",
+          "email": "郵箱"
+      },
+      "oversea": {
+          "name": "Cheng Li",
+          "phone": "電話",
+          "email": "郵箱"
+      },
+      "submitRequirements": "在這裡提交您的技術需求",
+      "form": {
+          "name": "留言姓名",
+          "namePlaceholder": "您的姓名",
+          "company": "留言單位",
+          "companyPlaceholder": "您的公司",
+          "phone": "聯繫電話",
+          "phonePlaceholder": "您的電話號碼",
+          "email": "聯繫郵箱",
+          "emailPlaceholder": "您的郵箱地址",
+          "message": "留言內容",
+          "messagePlaceholder": "請在此處輸入您的需求",
+          "captchaPlaceholder": "請輸入驗證碼",
+          "submit": "提交",
+          "successMessage": "您的信息已成功發送！",
+          "captchaError": "驗證碼錯誤，請重新輸入。"
+      }
+  }
+}

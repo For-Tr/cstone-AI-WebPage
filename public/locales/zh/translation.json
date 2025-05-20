@@ -1,0 +1,215 @@
+{
+  "company": {
+    "name": "铖石科技"
+  },
+  "welcome": "欢迎使用 i18n React 应用",
+  "description": "这是一个展示国际化如何工作的简单示例",
+  "change_language": "切换语言",
+  "hello": "你好",
+  "menu": {
+    "home": "首页",
+    "about": "关于",
+    "contact": "联系我们"
+  },
+  "header": {
+    "home": "首页",
+    "about": "公司介绍",
+    "products": "产品与方案",
+    "news": "新闻动态",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "以AI大模型",
+    "subtitle": "驱动万物智联"
+  },
+  "aiCore": {
+    "title": "以AI基础大模型为核心",
+    "description1": "成为AIoT2.0时代最强大脑",
+    "description2": "更适用于特定领域"
+  },
+  "platform": {
+    "button": "智燧Maas平台"
+  },
+  "technology": {
+    "title": "技术跃迁 引领三次变革",
+    "subtitle": "TECHNOLOGICAL EVOLUTION PIONEERING A TRIAD OF REVOLUTIONS",
+    "traditional": {
+      "title": "传统数据模型",
+      "subtitle": "TRADITIONAL DATA MODEL"
+    },
+    "deepLearning": {
+      "title": "深度学习",
+      "subtitle": "DEEP LEARNING"
+    },
+    "timeModel": {
+      "title": "时序大模型",
+      "subtitle": "TIME-SERIES FOUNDATION MODEL"
+    }
+  },
+  "innovation": {
+    "title": "创新驱动 打造智能生态",
+    "subtitle": "POWERED BY INNOVATION SHAPING AN INTELLIGENT ECOSYSTEM",
+    "products": {
+      "fm": {
+        "title": "智燧FM垂域大模型",
+        "description": "燃气行业专用AI Foundation Model，更精确地解决燃气行业痛点"
+      },
+      "maas": {
+        "title": "智燧MaaS平台",
+        "description": "One UI智隧大模型平台，一键式智隧垂域大模型应用平台"
+      },
+      "llm": {
+        "title": "智燧LLM",
+        "description": "基于燃气行业专业知识库的语言大模型"
+      },
+      "tsdb": {
+        "title": "铖石TSDB",
+        "description": "针对物联网数据的专用数据库结构，提供高效的数据读写能力，提高模型训练推理效率"
+      },
+      "lic": {
+        "title": "铖石LIC",
+        "description": "自研AI无损数据压缩算法，有效降低数据存储成本"
+      },
+      "report": {
+        "title": "智燧Report",
+        "description": "面对燃气大模型的专用结果分析报告工具，直观的可视化报告看板"
+      }
+    }
+  },
+  "products": {
+    "maas": {
+      "title": "智燧MaaS平台",
+      "subtitle": "Model as a Service"
+    },
+    "gas": {
+      "fms": {
+        "title": "燧FM-S",
+        "subtitle": "GAS FOUNDATION MODEL - SAFETY",
+        "description1": "对比燃气行业现有技术，智燧大模型预警时效性提高80%；每年可避免多起燃气事故，异常检测准确率提高38%；有效规避现有技术遗漏的燃气异常多起，误检率降低50%，进一步为千家万户安全用气保驾护航。"
+      },
+      "fmp": {
+        "title": "燧FM-P",
+        "subtitle": "GAS FOUNDATION MODEL - PROPHET",
+        "description": "燃气用量预测，基于领域需求，可以实现少样本快速部署和基于主动学习的模型持续迭代升级。燃气预测准确率提高10%+，直接节省购气成本。"
+      },
+      "fmm": {
+        "title": "燧FM-M",
+        "subtitle": "GAS FOUNDATION MODEL - MONITOR",
+        "description": "燃气网表AI在线监控，利用网表传感器数据，实现在现网表设备健康监控，通过预测性维护技术，有效减少网表故障，节省运维费用。实现费用结算异常提前预警，及时报警。成功实现在线物联网表预测性维护\"0到1\"的技术性突破"
+      },
+      "fmllm": {
+        "title": "燧FM-LLM",
+        "subtitle": "GAS FOUNDATION MODEL - LARGE LANGUAGE MODEL",
+        "description": "基于Deepseek的OA服务端大模型，提供了多项燃气系统内的常用AI助手"
+      }
+    }
+  },
+  "customerCentric": {
+    "title": "客户为本 提供端到端服务",
+    "subtitle": "CUSTOMER-CENTRIC DELIVERING END-TO-END SERVICES",
+    "description": "铖石科技致力为客户提供全方位解决方案，通过自身多年技术积累，助力其实现智能化转型"
+  },
+  "footer": {
+    "contact": "联系方式",
+    "phone": "18819280027",
+    "address": "陕西省西安市未央区西北国金中心A座",
+    "company": "© 2023 铖石科技 版权所有 | 粤ICP备xxxxxxxx号-1 | Powered by CodeStone"
+  },
+  "about": {
+    "title": "公司介绍",
+    "subtitle": "COMPANY INTRODUCTION",
+    "companyInfo": {
+      "text1": "陕西铖石信息技术有限公司（简称：铖石科技）创始人为李铖博士（原华为2012实验室资深成员），潘石博士（帝国理工大学博士后，伦敦大学学院（UCL)AI Lab核心成员）组成，核心团队还包括5位大厂资深 AI算法工程师以及3位资深软件工程师。",
+      "text2": "海外，我公司技术团队曾参加牛津大学、剑桥大学、帝国理工大学的AI算法及物联应用项目开发；国内，参与了华为AI智能产品，工业4.0智慧工厂的软件以及算法研发。团队利用原有产学研的技术优势，于2024年9月成立。"
+    },
+    "productInfo": {
+      "text1": "针对能源行业从数字化到智慧化转型的进阶需求，铖石燃气产品线构建了完整的解决方案矩阵：在数字化筑基阶段，提供铖石TSDB时序数据库和铖石LIC智能压缩引擎，夯实数据基建；在数字化深化阶段，推出智燧Maas平台、智燧LLM大模型及智燧report报告看板，实现数据价值挖掘；在智能化跃升阶段，打造智燧燃气大模型系列，包含燧FM-S安全预警、燧FM-P气量检测及燧FM-M网表在线监控三大核心模块，全面赋能燃气业务场景。"
+    },
+    "teamMembers": [
+      {
+        "name": "李铖",
+        "position": "CEO",
+        "education": "英国肯特大学博士",
+        "experience1": "5年华为2012高级工程师",
+        "experience2": "2年海克斯康AI技术总监",
+        "experience3": "10年以上人工智能领域产品研发经验",
+        "achievement": "AI商业化经历丰富 华为2012实验室⾼级算法⼯程师，完成机器视觉超星光降算法研发，产品落地",
+        "expertise": "担任华为消费者BG穿戴，智驾等产品的感知算法SE以及AI软件项⽬经理；海克斯康集团担任⼯业AI应⽤专家、AI技 术总监。 负责多个⼤模型ToC、ToB项⽬应⽤落地，带领团队完成了AI在各个⾏业的创新应⽤"
+      },
+      {
+        "name": "潘石",
+        "position": "CTO",
+        "education": "英国肯特大学博士",
+        "experience1": "英国帝国理⼯⼤学博士后",
+        "experience2": "英国伦敦⼤学学院⾼级研究员",
+        "experience3": "10年以上的世界顶级院校科研经历",
+        "achievement": "丰富的技术论⽂与专利经验",
+        "expertise": "英国帝国理⼯学院博⼠后，从事神经⽹络压缩前沿研究；伦敦⼤学学院UCL研究科学家，带领团队深耕AI⼤模型在肿瘤领域的应⽤"
+      }
+    ]
+  },
+  "news": {
+    "title": "新闻动态",
+    "subtitle": "NEWS UPDATES",
+    "items": {
+      "deepseek": {
+        "title": "DeepSeek解答：未来AI如何助力燃气上中下游产业发展",
+        "description": "到2030年，AI有望帮助燃气行业降低10-15%运营成本、减少20%以上甲烷排放，并通过智慧能源服务创造新盈利模式（如碳信用销售）。技术融合（AI+物联网+区块链）将推动燃气产业向\"自主决策系统\"进化。"
+      },
+      "safety": {
+        "title": "AI赋能燃气安全，沈阳燃气引领智慧化变革新征程",
+        "description": "沈阳燃气集团有限公司以时不我待的紧迫感，迅速完成DeepSeek大模型的本地化部署，率先开启智能客服系统的构建。展望未来，沈阳燃气集团将持续深化AI与机器学习技术在燃气运营管理中的应用。"
+      },
+      "management": {
+        "title": "燃气管理进入智能时代！新技术如何实现智慧燃气？",
+        "description": "在互联网技术、无线通信技术、物联网技术、卫星通信技术、大数据、云计算技术飞速发展的今天，业界提出了\"智慧城市\"的概念。智慧城市的范围很广，包含智慧交通、智慧水务、智慧燃气等多个领域。对于智慧燃气的概念，燃气行业目前并未有统一的定义，基本上还处于各自阐述的阶段。近来，很多燃气公司都采用现代技术提升管理及服务水平，努力往智慧燃气方向发展。"
+      }
+    },
+    "pagination": {
+      "prev": "上一页",
+      "next": "下一页"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "CONTACT US",
+    "findUs": "您可以在这里找到我们",
+    "businessInquiry": "业务洽谈",
+    "technicalSupport": "技术支持",
+    "phone": "电话",
+    "email": "邮箱",
+    "address": "陕西省西安市未央区西北国金大厦A座",
+    "business": {
+      "name": "欧阳天宇",
+      "phone": "电话",
+      "email": "邮箱"
+    },
+    "technical": {
+      "name": "张耀中",
+      "phone": "电话",
+      "email": "邮箱"
+    },
+    "oversea": {
+      "name": "Cheng Li",
+      "phone": "电话",
+      "email": "邮箱"
+    },
+    "submitRequirements": "在这里提交您的技术需求",
+    "form": {
+      "name": "留言姓名",
+      "namePlaceholder": "您的姓名",
+      "company": "留言单位",
+      "companyPlaceholder": "您的公司",
+      "phone": "联系电话",
+      "phonePlaceholder": "您的电话号码",
+      "email": "联系邮箱",
+      "emailPlaceholder": "您的邮箱地址",
+      "message": "留言内容",
+      "messagePlaceholder": "请在此处输入您的需求",
+      "captchaPlaceholder": "请输入验证码",
+      "submit": "提交",
+      "successMessage": "您的信息已成功发送！",
+      "captchaError": "验证码错误，请重新输入。"
+    }
+  }
+} 
